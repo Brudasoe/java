@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e521347-1db4-444b-967d-67c3c3dee709" name="Default" comment="yyy">
-      <change beforePath="$PROJECT_DIR$/../Class1/Class1.iml" afterPath="$PROJECT_DIR$/../Class1/Class1.iml" />
-      <change beforePath="$PROJECT_DIR$/../Class1/src/Classes/Packet.java" afterPath="$PROJECT_DIR$/../Class1/src/Classes/Packet.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9e521347-1db4-444b-967d-67c3c3dee709" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -367,6 +364,14 @@
       <option name="presentableId" value="Default" />
       <updated>1521627183010</updated>
     </task>
+    <task id="LOCAL-00001" summary="yyy">
+      <created>1523804319725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523804319725</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
